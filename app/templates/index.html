@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}Index{% endblock %}
+
+
+{% block content %}
+
+<!DOCTYPE html>
+
+<head>
+
+  <h1 id="flask">Los Platos más deliciosos</h1><br>
+</head>
+
+<body>
+  <ul class="navbar">
+    <li><a href="{{url_for('routes.paella')}}">Paella</a></li>
+    <li><a href="{{url_for('routes.formulario')}}">Formulario</a></li>
+    <li><a href="{{url_for('routes.datostabla')}}">Tabla alimentos</a></li>
+    
+  </ul>
+  <p class="fotos">
+    <img src="{{url_for('static', filename='images/paella.jpg')}}" height="250px">
+    <img src="{{url_for('static', filename='images/tortilla-de-patata-con-chorizo.jpg')}}" height="250px">
+    <img src="{{url_for('static', filename='images/gazpacho.jpg')}}" height="250px">
+    <img src="{{url_for('static', filename='images/imagen-churros-blog.jpg')}}" height="250px">
+  </p><br>
+  <p class="centrado">
+    La gastronomía, como expresión cultural y sensorial, nos sumerge en un fascinante universo de sabores, aromas y
+    texturas a través de los diversos platos de comida que existen en todo el mundo. Cada región y cada cultura tienen
+    su propio repertorio culinario, reflejando la historia, los recursos naturales y las tradiciones que han influido en
+    su desarrollo.
+  </p>
+  <p class="centrado">
+    Desde platos sencillos y reconfortantes hasta creaciones culinarias elaboradas y sofisticadas, la diversidad de la
+    comida es infinita. Los platos no solo nutren nuestro cuerpo, sino que también despiertan emociones, recuerdos y
+    conexiones sociales. La preparación de alimentos es un arte que trasciende las barreras lingüísticas y une a las
+    personas en torno a la mesa.
+  </p>
+  {% endblock %}
+
+  {% block footer %}
+  <footer>
+    <p class="footer">
+      Síguenos en redes sociales<br>
+
+      <img src="{{url_for('static', filename='images/facebook.jpg')}}" height="50px">
+      <img src="{{url_for('static', filename='images/what.jpg')}}" height="50px">
+      <img src="{{url_for('static', filename='images/X.jpg')}}" height="50px">
+
+
+    </p>
+  </footer>
+  {% endblock %}
+</body>
+
+</html>

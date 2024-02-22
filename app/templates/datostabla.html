@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}{% endblock %}
+{% block content %}
+
+<body>
+    <div class="test">
+        <div id="content">
+            <table border="1" style="width: 100%;">
+                <tr>
+                    <th>Plato</th>
+                    <th>Nombre</th>
+                    <th>Temperatura</th>
+                </tr>
+                {% for plato in platos %}
+                <tr>
+                    <td>{{ plato.plato }}</td>
+                    <td>{{ plato.nombre }}</td>
+                    <td>{{ plato.temperatura }}</td>
+                    <td>
+                        <form action="/delPlato" method="post">
+                            <input type="hidden" name="id" value="{{plato.plato}}"/>
+                            <input type="submit" value="Borrar"/>
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div><br>
+
+    <form action="/addPlato" method="post">
+
+        <label for="nombre">Escribe el nombre...</label>
+        <input type="text" name="nombre" id=""/><br>
+
+        <label for="temperatura">añade la temperatura...</label>
+        <input type="text" id="temperatura" name="temperatura"/><br>
+        <input type="submit" value="Add"/>
+
+    </form>
+
+    <form action="=/"
+
+</body>
+
+
+{% endblock %}

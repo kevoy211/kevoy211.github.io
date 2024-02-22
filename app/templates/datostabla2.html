@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{% endblock %}
+{% block content %}
+
+<body>
+    <div class="test">
+        <div id="content">
+            <table border="1" style="width: 100%;">
+                <tr>
+                    <th>Plato</th>
+                    <th>Nombre</th>
+                    <th>Temperatura</th>
+                </tr>
+                {% for unionplato in unionplatos %}
+                <tr>
+                    <td>{{ plato.plato }}</td>
+                    <td>{{ plato.nombre }}</td>
+                    <td>{{ plato.temperatura }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+
+
+</body>
+
+
+{% endblock %}
