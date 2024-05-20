@@ -4,3 +4,6 @@ plugins:
 
 h1: esto es un h1
 name: esto no es un h1 
+mensaje: esto es una página realizada con jekyll
+mensaje2: Esta es la principal
+
