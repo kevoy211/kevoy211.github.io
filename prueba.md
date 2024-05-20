@@ -27,7 +27,7 @@
 
 ### Citas
 
-> Esto es una cita
+>Esto es una cita
 
 ---
 
