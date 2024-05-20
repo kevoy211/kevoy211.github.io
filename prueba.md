@@ -3,7 +3,7 @@
 ---
 
 
-#{{site.mensaje2}}
+#PÁGINA PRINCIPAL Jekyll
 
 ---
 
@@ -37,3 +37,5 @@
 **esto es un ejemplo de letra en negrita**
 
 *esto esta en cursiva*
+
+---
