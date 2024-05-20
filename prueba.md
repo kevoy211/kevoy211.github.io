@@ -50,6 +50,8 @@
 
 **Este enlace te lleva al MARCA**
 
-![MARCA](marca.com)
+https://www.marca.com/
 
-![AS](as.com)
+**O si te gusta más el AS**
+
+https://as.com/
