@@ -29,7 +29,10 @@
 
 > Esto es una cita
 
+---
 
-### Letra en negrita
 
-**esto es un ejemplo de letra en negrita
+### Letra en Negrita y Cursiva
+
+**esto es un ejemplo de letra en negrita**
+*esto esta en cursiva*
