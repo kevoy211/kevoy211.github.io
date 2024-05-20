@@ -3,7 +3,7 @@
 ---
 
 
-#PÁGINA PRINCIPAL Jekyll
+{{site.mensaje}}
 
 ---
 
