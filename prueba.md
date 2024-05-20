@@ -50,4 +50,4 @@
 
 **Este enlace te lleva al MARCA**
 
-![MARCA](https://www.marca.com/)
+![MARCA](marca.com)
