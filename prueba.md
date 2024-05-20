@@ -39,3 +39,9 @@
 *esto esta en cursiva*
 
 ---
+
+### Imagenes
+
+![Jekyll](/images/jekyll-logo.png)
+
+---
