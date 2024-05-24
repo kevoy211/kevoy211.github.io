@@ -8,9 +8,6 @@
 ---
 
 
-{{site.mensaje2}}
-
----
 ### Lista Ordenada
 1. Apartado 1
 2. Apartado 2 
