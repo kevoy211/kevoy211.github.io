@@ -6,7 +6,7 @@
 
 ---
 
-[calamar](/images/calamar.gif)
+![calamar](/images/calamar.gif)
 
 
 ---
@@ -50,7 +50,7 @@
 
 ### Imagenes
 
-[Jekyll](/images/jekyll-logo.png)
+![Jekyll](/images/jekyll-logo.png)
 
 ---
 
