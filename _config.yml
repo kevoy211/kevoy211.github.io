@@ -1,4 +1,4 @@
-remote_theme: pages-themes/tactile@v0.2.0
+theme: jekyll-theme-chirpy
 
 h1: esto es un h1
 name: esto no es un h1 
