@@ -8,11 +8,10 @@
             <th>Ciudad</th>
             <th>Pais</th>  
         </tr>
-         {% for ciudadpais in site.data.ciudadespaises %}
-            
-            <tr>
+        <tr>
+            {% for ciudadpais in site.data.ciudadespaises %}
                 <td>{{ciudadpais.ciudad}}</td>
                 <td>{{ciudadpais.pais}}</td>
-            </tr>
-        {% endfor %}   
+            {% endfor %}
+        </tr>   
 </table>
