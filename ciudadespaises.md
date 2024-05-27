@@ -3,7 +3,7 @@
 
 ---
 
-<table class="border">
+<table border="1">
         <tr>
             <th>Ciudad</th>
             <th>Pais</th>  
