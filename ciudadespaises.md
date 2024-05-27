@@ -3,7 +3,8 @@
 
 ---
 
-{% for ciudadpais in site.data.ciudadespaises %}
-    {{ciudadpais.ciudad}}   {{ciudadpais.pais}}
-
-{% endfor %}
+<table></table>
+    {% for ciudadpais in site.data.ciudadespaises %}
+        <th>{{ciudadpais.ciudad}}</th>  
+        <td>{{ciudadpais.pais}}</td>
+    {% endfor %}
