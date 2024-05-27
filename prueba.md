@@ -1,7 +1,7 @@
 ---
 
 ---
-
+[calamar](/images/calamar.gif)
 
 {{site.mensaje}}
 
@@ -42,7 +42,7 @@
 
 ### Imagenes
 
-![Jekyll](/images/jekyll-logo.png)
+[Jekyll](/images/jekyll-logo.png)
 
 ---
 
