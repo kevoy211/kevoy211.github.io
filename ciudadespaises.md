@@ -10,7 +10,7 @@
     </tr>
         {% for ciudadpais in site.data.ciudadespaises %}
             <tr>
-                <th>{{ciudadpais.ciudad}}</td>
+                <td>{{ciudadpais.ciudad}}</td>
                 <td>{{ciudadpais.pais}}</td>
             </tr>
         {% endfor %}  
