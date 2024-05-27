@@ -1,7 +1,15 @@
 ---
 
 ---
+
+
+
+---
+
 [calamar](/images/calamar.gif)
+
+
+---
 
 {{site.mensaje}}
 
