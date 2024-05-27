@@ -4,6 +4,6 @@
 ---
 
 {% for ciudadpais in site.data.ciudadespaises %}
-    {{ciudadpais.Ciudad}}   {{ciudadpais.pais}}
+    {{ciudadpais.ciudad}}   {{ciudadpais.pais}}
 
 {% end for %}

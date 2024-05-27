@@ -1,7 +1,7 @@
 [
-    {"Ciudad": "toulouse","pais": "Francia"},
-    {"Ciudad": "Venecia","pais": "Italia"},
-    {"Ciudad": "Florencia","pais": "Italia"},
-    {"Ciudad": "Lourdes","pais": "Francia"}
+    {"ciudad": "toulouse","pais": "Francia"},
+    {"ciudad": "Venecia","pais": "Italia"},
+    {"ciudad": "Florencia","pais": "Italia"},
+    {"ciudad": "Lourdes","pais": "Francia"}
 
 ]
