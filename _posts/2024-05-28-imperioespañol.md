@@ -9,6 +9,8 @@ categories:
 
 # IMPERIO ESPAÑOL
 
+
+
 Expansión y esplendor
 
 El Imperio Español, también conocido como Monarquía Hispánica, fue uno de los más grandes imperios de la historia, abarcando territorios en Europa, América, África y Asia.
