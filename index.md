@@ -10,7 +10,7 @@
 
 ---
 
-
+[TABLA DE PAISES](ciudadespaises.md)
 
 
 ---
@@ -21,14 +21,15 @@
 
 ---
 # POSTS
-<li>
+<ul>
     {% for post in site.posts %}
     
-    
-        <a href="{{post.url}}">{{post.title}}</a>
-    
+        <li>
+            <a href="{{post.url}}">{{post.title}}</a>
+        </li>
+
     {% endfor %}
-</li>   
+</ul>
 
 ---
 
