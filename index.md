@@ -27,7 +27,7 @@
 - [IMPERIO ESPAÑOL](_posts/2024-05-28-imperioespañol.md)
 - [FELIPE II](_posts/2024-05-28-nevera.md)
 
-
+---
 
 ### Lista Ordenada
 1. Apartado 1
