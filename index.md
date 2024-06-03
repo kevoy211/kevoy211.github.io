@@ -10,7 +10,7 @@
 
 ---
 
-![TABLA](/kevoy211.github.io/ciudadespaises.md)
+![TABLA](ciudadespaises.md)
 
 
 ---
