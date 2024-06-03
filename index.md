@@ -25,7 +25,7 @@
 - [TABLA](ciudadespaises.md)
 - [FELIPE II](_posts/2024-05-27-felipe2.md)
 - [IMPERIO ESPAÑOL](_posts/2024-05-28-imperioespañol.md)
-- [FELIPE II](_posts/2024-05-28-nevera.md)
+- [LA NEVERA](_posts/2024-05-28-nevera.md)
 
 ---
 
