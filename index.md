@@ -10,7 +10,7 @@
 
 ---
 
-![TABLA](ciudadespaises.md)
+[TABLA](ciudadespaises.md)
 
 
 ---
