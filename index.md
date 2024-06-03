@@ -21,14 +21,14 @@
 
 ---
 # POSTS
-
-{% for post in site.posts %}
-    <li>
+<li>
+    {% for post in site.posts %}
+    
+    
         <a href="{{post.url}}">{{post.title}}</a>
-    </li>
-
-{% endfor %}
-
+    
+    {% endfor %}
+</li>   
 
 ---
 
