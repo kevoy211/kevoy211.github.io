@@ -22,8 +22,10 @@
 ---
 # POSTS
 
-{% for post in site._posts %}
- - [TABLA](2)
+{% for post in site.posts %}
+    <li>
+        <a href="{{post.url}}">{{post.title}}</a>
+    </li>
 
 {% endfor %}
 
