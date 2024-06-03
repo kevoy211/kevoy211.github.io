@@ -1,5 +1,8 @@
 ---
-
+layout: posts
+title: IMPERIO ESPAÑOL
+date: 2024-05-28
+categories: historia
 ---
 
 # IMPERIO ESPAÑOL
