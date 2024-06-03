@@ -1,4 +1,5 @@
 ---
+remote_theme: pages-themes/hacker@v0.2.0
 layout: posts
 title: IMPERIO ESPAÑOL
 date: 2024-05-28
