@@ -18,7 +18,7 @@
 
 ---
 
-[TABLA DE NOTAS](notas.md)
+[TABLA DE NOTAS EXAMEN FINAL](notas.md)
 
 
 ---
